@@ -40,8 +40,14 @@ models = ['Mazda RX4 Wag', 'Ford Pantera L', 'Honda Civic']
 cars.loc[cars['Model'].isin(models),['Model', 'cyl', 'gear']]
 ```
 
+# Conclusion
+In this assignment, I learned how to use the Pandas library to explore and manipulate data from a CSV file. I practiced loading data into a DataFrame, viewing the first and last rows, and selecting specific rows and columns using .iloc[] and .loc[]. I also used filtering techniques to find information about specific car models and their features. Working with lists and the .isin() method helped me select multiple rows based on a set of values. Overall, this project helped me better understand how to handle real-world datasets and perform useful data queries with Pandas.
+
 # Version History
 * v.01
+* v.02
+  * added comments in the python code
+  * included a conclusion section in the README file
 
 
 
