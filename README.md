@@ -1,5 +1,5 @@
 # ECE2112-Programming-Assignment-3
-**Introduction to Python Programming**
+**Python Data Analysis**
 
 Name: Padilla, Erich S. 
 
